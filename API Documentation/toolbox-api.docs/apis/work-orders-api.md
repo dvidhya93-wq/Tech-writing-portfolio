@@ -5,14 +5,17 @@
 The Work Order API allows maintenance systems to create and manage aircraft maintenance work orders.
 
 A work order records maintenance tasks that must be performed on an aircraft.
+
 ---
 ## Endpoint
 
 POST /workorders
+
 ---
 ## Description
 
 Creates a new aircraft maintenance work order.
+
 ---
 ## Request Headers
 
@@ -20,6 +23,7 @@ Creates a new aircraft maintenance work order.
 |-----|------|
 |Authorization|Bearer access_token|
 |Content-Type|application/json|
+
 ---
 ## Request Body
 
@@ -29,6 +33,7 @@ Creates a new aircraft maintenance work order.
 |description|string|Yes|Maintenance task description|
 |priority|string|Yes|Priority level (Low, Medium, High)|
 |requestedBy|string|No|User creating the work order|
+
 ---
 ## Example Request
 
@@ -47,6 +52,7 @@ POST https://api.aircraft.com/v1/workorders
 "requestedBy": "maintenance_engineer"
 
 }
+
 ---
 ## Example Response
 
@@ -68,10 +74,11 @@ POST https://api.aircraft.com/v1/workorders
 
 |Field|Type|Description|
 |-----|----|-----------|
-|workOrderId|string||Unique identifier for the work order|
+|workOrderId|string|Unique identifier for the work order|
 |aircraftId|string|Aircraft identifier|
 |status|string|Current status of the work order|
 |CreatedAt|string|Timestamp when the work order was created|
+
 ---
 ## Error Responses
 |Status Code|Description|
@@ -80,4 +87,5 @@ POST https://api.aircraft.com/v1/workorders
 |401|Unauthorized request|
 |403|User does not have permission|
 |500|Internal server error|
+
 ---
