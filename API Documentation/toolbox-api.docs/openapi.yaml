@@ -1,1 +1,15 @@
+openapi: 3.0.0
+info:
+  title: Aircraft Maintenance API
+  version: 1.0.0
 
+servers:
+  - url: https://api.aircraft.com/v1
+
+paths:
+  /parts/search:
+    get:
+      summary: Search parts
+      responses:
+        '200':
+          description: Successful response
