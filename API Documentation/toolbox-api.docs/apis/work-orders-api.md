@@ -8,9 +8,9 @@ A work order records maintenance tasks that must be performed on an aircraft.
 
 ---
 ## Endpoint
-
+```
 POST /workorders
-
+```
 ---
 ## Description
 
@@ -36,49 +36,37 @@ Creates a new aircraft maintenance work order.
 
 ---
 ## Example Request
-
+```
 POST https://api.aircraft.com/v1/workorders
-
+```
+```
 </> json
-
 {
-
 "aircraftId": "ZA123",
-
 "description": "Replace hydraulic pump",
-
 "priority": "High",
-
 "requestedBy": "maintenance_engineer"
-
 }
-
+```
 ---
 ## Example Response
-
+```
 </> json
-
 {
-
 "workOrderId": "WO-12345",
-
 "aircraftId": "ZA123",
-
 "status": "Created",
-
 "CreatedAt": "2026-04-08T11:30:20Z"
-
 }
-
+```
 ## Response Fields
 
-|Field|Type|Description|
-|-----|----|-----------|
-|workOrderId|string|Unique identifier for the work order|
-|aircraftId|string|Aircraft identifier|
-|status|string|Current status of the work order|
-|CreatedAt|string|Timestamp when the work order was created|
-
+|Field      |Type   |Description|
+|---------- |-------|-----------|
+|workOrderId|string |Unique identifier for the work order|
+|aircraftId |string |Aircraft identifier|
+|status     |string |Current status of the work order|
+|CreatedAt  |string |Timestamp when the work order was created|
 ---
 ## Error Responses
 |Status Code|Description|
