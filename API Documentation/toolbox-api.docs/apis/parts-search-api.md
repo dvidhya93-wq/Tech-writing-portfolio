@@ -12,8 +12,8 @@ Returns a list of parts that match the search criteria.
 
 |Parameter|Type|Description|
 |---------|----|-----------|
-|partNumber|String|Aircraft Part Number|
-|manufacturer|string|Manufacturer name|
+|```partNumber```|string|Aircraft Part Number|
+|```manufacturer```|string|Manufacturer name|
 
 ## Example Request
 ```
