@@ -16,11 +16,13 @@ https://api.openweathermap.org/data/2.5
 GET /weather
 ```
 ## Request Parameters
+
 |Parameter  |Type  |Required|Description|
 |-----------|------|--------|-----------|
 |```q```    |string|Required|City name  |
 |```appid```|string|Required|Your unique API key|
 |```units```|string|Optional|Units of measurement. ```Standard```, ```metric``` or ```imperial``` units are available. If you do not use ```units``` parameter, ```standard``` units will be applied by default|
+
 ## Example Request
 ```
 curl "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&&units=metric"
