@@ -25,7 +25,7 @@ GET /weather
 
 ## Example Request
 ```
-curl "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&&units=metric"
+curl GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&&units=metric"
 ```
 ## Example Response
 ```
