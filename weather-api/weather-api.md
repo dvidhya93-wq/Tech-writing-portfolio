@@ -28,7 +28,7 @@ GET /weather
 curl GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&&units=metric"
 ```
 ## Example Response
-```
+```json
 ✅ Response (200 OK)
 {
     "coord": {
