@@ -1,2 +1,0 @@
-# MockAPI User Management
-
