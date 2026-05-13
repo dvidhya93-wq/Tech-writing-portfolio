@@ -20,7 +20,7 @@ Returns a list of parts that match the search criteria.
 GET https://api.aircraft.com/parts/search?partNumber=HYD12345
 ```
 ## Example Response
-```
+```json
 {
 "parts": [
 {
