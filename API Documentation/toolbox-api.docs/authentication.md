@@ -8,7 +8,7 @@ Endpoint:
 POST /oauth/token
 ```
 ### Request Body
-```
+```json
 {
 "client id": "your_client_id",
 "client_secret": "your_secret",
@@ -16,7 +16,7 @@ POST /oauth/token
 }
 ```
 ### Response
-```
+```json
 {
 "access_token": "token_value",
 "expires_in": 3600
