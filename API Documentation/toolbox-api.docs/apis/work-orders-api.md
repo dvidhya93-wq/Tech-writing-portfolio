@@ -39,8 +39,7 @@ Creates a new aircraft maintenance work order.
 ```
 POST https://api.aircraft.com/v1/workorders
 ```
-```
-</> json
+```json
 {
 "aircraftId": "ZA123",
 "description": "Replace hydraulic pump",
@@ -50,8 +49,7 @@ POST https://api.aircraft.com/v1/workorders
 ```
 ---
 ## Example Response
-```
-</> json
+```json
 {
 "workOrderId": "WO-12345",
 "aircraftId": "ZA123",
