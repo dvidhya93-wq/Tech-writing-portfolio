@@ -20,6 +20,7 @@ Returns inventory levels for aircraft parts.
 |warehouse|string|No|Warehouse location|
 
 ## Example Request
+
 ```
 GET https://api.aircraft.com/v1/inventory?partNumber=HYD12345
 ```
@@ -31,8 +32,8 @@ GET https://api.aircraft.com/v1/inventory?partNumber=HYD12345
 |Content-Type|application/json|
 ---
 ## Example Response
-```
-</> json
+
+```json
 {
 "partNumber": "HYD12345",
 "warehouse": "Renton",
