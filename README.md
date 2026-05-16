@@ -1,6 +1,6 @@
-# Welcome to my Documentation
-
-# About me
+# Welcome to my Documentation!
+---
+## About me
 
 With 11 years of experience as a Technical Writer across **aerospace** and **SaaS** domains, I specialise in creating clear, precise, and user-focused documentation — from Aircraft Maintenance Manuals for Boeing 737 MAX to API references and developer guides for web-based platforms.
 
@@ -28,10 +28,10 @@ workflows, feature walkthroughs, and step-by-step instructions tailored for non-
 ## Core focus areas
 
 - **API documentation** — REST APIs, OpenAPI/Swagger specifications, Postman
-- **Developer portals & Docs-as-Code** — GitHub, Markdown, Docusaurus, MkDocs
+- **Developer portals & Docs-as-Code** — GitHub, Markdown, GitHub Pages
 - **CI/CD-integrated documentation workflows** — Git, version-controlled docs
 - **UX writing for developer experience (DX)** — Getting Started Guides, onboarding content
-- **AI-assisted documentation workflows** — modern tooling and automation
+- **AI-assisted documentation workflows** — Prompt Engineering for modern work flows
 - **Structured authoring** — DITA, MadCap Flare, Arbortext Epic Editor
 
 ---
@@ -39,10 +39,8 @@ workflows, feature walkthroughs, and step-by-step instructions tailored for non-
 ## My Documentation Pages
 - [Weather API documentation](weather-api\weather-api.md)
 - [Booking.com-Getting Started Guide](Getting started Guide - Booking.com.pdf)
-- [Flow chart](DDLC.jpg)
-- Docs-as-code (Markdown)
-- Prompt engineering for documentation
-- Handling ambiguous requirements
+- [DDLC](DDLC.jpg)
+
  
 ---
 Connect with me on [LinkedIn](https://www.linkedin.com/in/) or reach me at **dvidhya93@gmail.com**
