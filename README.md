@@ -49,6 +49,15 @@ Proficient in tools like **MadCap Flare**, **Arbortext Epic Editor**, **GitHub**
 
 ---
 
+## Skills Demonstrated
+- [Weather API documentation](weather-api\weather-api.md)
+- [Booking.com-Getting Started Guide](Getting started Guide - Booking.com.pdf)
+- [Flow chart](DDLC.jpg)
+- Docs-as-code (Markdown)
+- Prompt engineering for documentation
+- Handling ambiguous requirements
+ 
+---
 Connect with me on [LinkedIn](https://www.linkedin.com/in/) or reach me at **dvidhya93@gmail.com**
 
 Published with [GitHub Pages](https://pages.github.com)
