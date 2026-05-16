@@ -37,16 +37,6 @@ Proficient in tools like **MadCap Flare**, **Arbortext Epic Editor**, **GitHub**
 
 ---
 
-### Work experience
-
-| Period | Role | Organisation |
-|--------|------|--------------|
-| Jun 2025 – Present | Senior Technical Writer | Boeing India Pvt Ltd, Chennai |
-| Dec 2017 – May 2025 | Technical Writer | Boeing India Pvt Ltd, Chennai |
-| May 2015 – Nov 2017 | Technical Writer | Capgemini Business Services Ltd, Bangalore |
-
----
-
 ### Tools & stack
 
 **Documentation:** MadCap Flare · Arbortext Epic Editor · Confluence · Markdown · OpenAPI · Swagger · Postman · MkDocs · Docusaurus · MS Word
@@ -56,12 +46,6 @@ Proficient in tools like **MadCap Flare**, **Arbortext Epic Editor**, **GitHub**
 **Version control & CMS:** GitHub · Git · SharePoint · Jira
 
 **Diagramming:** draw.io · MS Visio · Snagit
-
----
-
-### Education
-
-**B.E. Aeronautical Engineering** — Anna University, Chennai (2010–2014) · GPA: 8.0 / 10.0
 
 ---
 
