@@ -1,8 +1,4 @@
 # Welcome to my Documentation
-{: .fs-9 }
-
-## Portfolio of Vidhya Dharmadurai, Senior Technical Writer
-{: .fs-5 .fw-300 }
 
 ---
 
