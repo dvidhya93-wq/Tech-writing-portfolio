@@ -1,86 +1,70 @@
-<!-- Banner -->
-<p><img src="vidhya_github_banner.svg"
-     alt="Vidhya Dharmadurai — Senior Technical Writer"
-     width="100%"/></p>
+---
+layout: default
+title: About me
+nav_order: 1
+description: "Portfolio of Vidhya Dharmadurai, Senior Technical Writer specialising in API documentation, Docs-as-Code, and developer documentation."
+permalink: /
+---
 
+# Welcome to my Documentation
+{: .fs-9 }
 
-# Hi, I'm Vidhya Dharmadurai 👋
-
-**Senior Technical Writer · 11 years · Aerospace → SaaS → Developer Docs**
-
-✉️ dvidhya93@gmail.com | [LinkedIn](www.linkedin.com/in/vidhya-dharmadurai-03375764)
+## Portfolio of Vidhya Dharmadurai, Senior Technical Writer
+{: .fs-5 .fw-300 }
 
 ---
 
-Technical Writer with 11 years of experience across aviation and SaaS — from aircraft maintenance manuals for Boeing 737 MAX to API references and developer guides for web-based platforms. I specialise in simplifying complex technical content for diverse audiences, with a strong focus on Docs-as-Code, structured authoring, and developer experience.
+# About me
+
+With 11 years of experience as a Technical Writer across **aerospace** and **SaaS** domains, I specialise in creating clear, precise, and user-focused documentation — from Aircraft Maintenance Manuals for Boeing 737 MAX to API references and developer guides for web-based platforms.
+
+I began my career writing aircraft maintenance manuals, where accuracy and clarity are not just goals — they are critical. That discipline continues to shape everything I write. Currently, as a **Senior Technical Writer at Boeing India**, I focus on software documentation for web-based applications: user guides, administrator guides, installation manuals, and release notes.
+
+I collaborate closely with developers, QA teams, SMEs, and product managers in **Agile environments** to ensure documentation is accurate, consistent, and aligned with user needs. I am experienced across the full documentation lifecycle (DDLC & SDLC) and am continuously building hands-on projects in API documentation, Docs-as-Code, and AI-assisted workflows.
+
+Proficient in tools like **MadCap Flare**, **Arbortext Epic Editor**, **GitHub**, **Postman**, **Confluence**, and **OpenAPI/Swagger**, I combine aerospace-level discipline with modern developer-centric documentation practices.
 
 ---
 
-## 💼 Work Experience
+### Core focus areas
 
-**Senior Technical Writer** — Boeing India Pvt Ltd *(Jun 2025 – Present)*
-- Authoring User Guides and Admin Guides for Boeing's Maintenance Performance Toolbox in MadCap Flare (MSTP standards)
-- Publishing Release Notes in Confluence, collaborating with developers and QA in Agile sprints
-- Maintaining version control via Git/GitHub for documentation traceability
-- Self-initiated API Documentation Portfolio — REST API references, Getting Started Guides, and Release Notes on GitHub
-
-**Technical Writer** — Boeing India Pvt Ltd *(Dec 2017 – May 2025)*
-- Developed and revised AMMs for Boeing 737 MAX, 737 NG, 747, 777, and 787
-- Dual role as Author and Illustrator for AMM Chapters 11 & 31 (Flight Deck Instruments)
-- Collaborated with US-based cross-functional teams and SMEs to validate technical accuracy
-
-**Technical Writer** — Capgemini Business Services Ltd *(May 2015 – Nov 2017)*
-- Created and revised AMM procedures based on engineering orders and service bulletins
+- **API documentation** — REST APIs, OpenAPI/Swagger specifications, Postman
+- **Developer portals & Docs-as-Code** — GitHub, Markdown, Docusaurus, MkDocs
+- **CI/CD-integrated documentation workflows** — Git, version-controlled docs
+- **UX writing for developer experience (DX)** — Getting Started Guides, onboarding content
+- **AI-assisted documentation workflows** — modern tooling and automation
+- **Structured authoring** — DITA, MadCap Flare, Arbortext Epic Editor
 
 ---
 
-## 📁 Portfolio Projects
+### Work experience
 
-| Project | Type | Tags |
-|---------|------|------|
-| Weather API & Scan API | REST API Reference + Release Notes | `OpenAPI` `Swagger` `REST API` |
-| Booking.com — Getting Started Guide | Developer Onboarding | `Developer Docs` `DX Writing` |
-| Booking.com — User Guide | End-user Documentation | `User Guide` `Structured Authoring` |
-
----
-
-## 🎯 Core Focus Areas
-
-- 📄 API documentation (REST, OpenAPI/Swagger)
-- 🔧 Docs-as-Code (GitHub, Markdown, Docusaurus, MkDocs)
-- 🔁 CI/CD-integrated documentation workflows
-- 🖥️ Developer portals & UX writing for DX
-- 🤖 AI-assisted documentation workflows
+| Period | Role | Organisation |
+|--------|------|--------------|
+| Jun 2025 – Present | Senior Technical Writer | Boeing India Pvt Ltd, Chennai |
+| Dec 2017 – May 2025 | Technical Writer | Boeing India Pvt Ltd, Chennai |
+| May 2015 – Nov 2017 | Technical Writer | Capgemini Business Services Ltd, Bangalore |
 
 ---
 
-## 🛠️ Tools & Stack
+### Tools & stack
 
-**Documentation:** `MadCap Flare` `Arbortext Epic Editor` `Confluence` `Markdown` `OpenAPI` `Swagger` `JSON` `YAML` `Postman` `MkDocs` `Docusaurus`
+**Documentation:** MadCap Flare · Arbortext Epic Editor · Confluence · Markdown · OpenAPI · Swagger · Postman · MkDocs · Docusaurus · MS Word
 
-**Methods:** `SDLC` `DDLC` `Agile Scrum` `DITA` `Structured Authoring` `Docs-as-Code`
+**Methods:** SDLC · DDLC · Agile Scrum · DITA · Structured Authoring · Docs-as-Code
 
-**Version Control & CMS:** `GitHub` `Git` `SharePoint` `Jira`
+**Version control & CMS:** GitHub · Git · SharePoint · Jira
 
-**Diagramming:** `draw.io` `MS Visio` `Snagit`
-
----
-
-## 🎓 Education
-
-**B.E. Aeronautical Engineering** — Anna University, Chennai *(2010–2014)* · GPA: 8.0/10.0
+**Diagramming:** draw.io · MS Visio · Snagit
 
 ---
 
-*Aerospace-level discipline. Developer-centric execution. 11 years of docs that actually get read.*
+### Education
 
+**B.E. Aeronautical Engineering** — Anna University, Chennai (2010–2014) · GPA: 8.0 / 10.0
 
+---
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/) or reach me at **dvidhya93@gmail.com**
 
-## Skills Demonstrated
-- [Weather API documentation](weather-api\weather-api.md)
-- [Booking.com-Getting Started Guide](Getting started Guide - Booking.com.pdf)
-- [Flow chart](DDLC.jpg)
-- Docs-as-code (Markdown)
-- Prompt engineering for documentation
-- Handling ambiguous requirements
+Published with [GitHub Pages](https://pages.github.com)
