@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 
 # Welcome to my Documentation
 {: .fs-9 }
