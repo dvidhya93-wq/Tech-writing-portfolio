@@ -9,8 +9,8 @@ This repository contains sample API documentation and Getting Started Guide crea
 - Focus on accuracy and no assumption-based documentation
 
 ## Skills Demonstrated
-- [API documentation](API Documentation\toolbox-api.docs\Tool-box-api.md)
-- [Getting Started Guide](Getting started Guide - Booking.com.pdf)
+- [Weather API documentation](weather-api\weather-api.md)
+- [Booking.com-Getting Started Guide](Getting started Guide - Booking.com.pdf)
 - [Flow chart](DDLC.jpg)
 - Docs-as-code (Markdown)
 - Prompt engineering for documentation
