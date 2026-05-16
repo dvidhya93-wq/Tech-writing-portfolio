@@ -3,18 +3,6 @@
      alt="Vidhya Dharmadurai — Senior Technical Writer"
      width="100%"/></p>
 
-<!-- Stats row -->
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=dvidhya93-wq&show_icons=true&hide_border=true&bg_color=04342C&title_color=9FE1CB&icon_color=1D9E75&text_color=E1F5EE&rank_icon=github"
-     height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvidhya93-wq&layout=compact&hide_border=true&bg_color=04342C&title_color=9FE1CB&text_color=E1F5EE&langs_count=6"
-     height="165" alt="Top Languages"/>
-</p>
-
-<!-- Streak stats -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=dvidhya93-wq&hide_border=true&background=04342C&ring=1D9E75&fire=5DCAA5&currStreakLabel=9FE1CB&sideLabels=9FE1CB&dates=5DCAA5"
-     width="100%" alt="Streak Stats"/></p>
-
 
 # Hi, I'm Vidhya Dharmadurai 👋
 
