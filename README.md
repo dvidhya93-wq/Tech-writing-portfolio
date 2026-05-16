@@ -9,9 +9,9 @@ This repository contains sample API documentation and Getting Started Guide crea
 - Focus on accuracy and no assumption-based documentation
 
 ## Skills Demonstrated
-- API documentation
-- Getting Started Guide
-- Flow chart
+- [API documentation](API Documentation\toolbox-api.docs\apis\work-orders-api.md)
+- [Getting Started Guide](Getting started Guide - Booking.com.pdf)
+- [Flow chart](DDLC.jpg)
 - Docs-as-code (Markdown)
 - Prompt engineering for documentation
 - Handling ambiguous requirements
