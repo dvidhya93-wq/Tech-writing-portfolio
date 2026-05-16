@@ -1,10 +1,14 @@
 ---
- title: About me
+ title: Toolbox AP
  layout: default
  ---
  ## My Documentation Pages
 
-- [toolbox-api][./api]
-- [Microsoft style guide cheatsheet](./msstyle)
-- [API documentation for beginners](./api)
-- [How to create Multilevel List Headings in MS Word](./multilevellist)
+- [Getting started](getting-started.md)
+- [Authentication](authentication.md)
+- [Inventory](inventory-api.md)
+- [Parts search](parts-search-api.md)
+- [Work orders](work-orders-api.md)
+- [Error codes](error-codes.md)
+- [Rate limits](rate-limits.md)
+- [Open API Spec](openapi.yaml)
