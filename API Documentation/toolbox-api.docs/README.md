@@ -9,7 +9,6 @@ The Aircraft Maintenance API allows developers to access aircraft maintenance da
 - Aircraft parts
 - Inventory levels
 - Work orders
-- Aircraft system status
 
 All API requests require authentication.
 
