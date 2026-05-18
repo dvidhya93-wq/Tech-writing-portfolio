@@ -2,22 +2,21 @@
 ---
 ## About me
 
-With 11 years of experience as a Technical Writer across *aerospace* and *SaaS* domains, I specialise in creating clear, precise, and user-focused documentation — from Aircraft Maintenance Manuals for Boeing 737 MAX to API references and developer guides for web-based platforms.
+With 11 years of experience as a Technical Writer across *aerospace* and *SaaS* domains, I specialise in creating clear, precise, and user-focused documentation - from *Aircraft Maintenance Manuals* for Boeing 737 MAX to *User guides* for web-based platforms.
 
-I began my career writing aircraft maintenance manuals, where accuracy and clarity are not just goals - they are critical. That discipline continues to shape everything I write. Currently, as a *Senior Technical Writer at Boeing India*, I focus on software documentation for web-based applications based on Microsoft Manual of Style (MSTP): user guides, administrator guides, installation manuals, and release notes.
+I began my career writing aircraft maintenance manuals, where accuracy and clarity are not just goals - they are critical. That discipline continues to shape everything I write. I previously worked at Capgemini. Currently, as a *Senior Technical Writer at Boeing India*, I focus on software documentation for web-based applications based on Microsoft Manual of Style (MSTP): User guides, Administrator guides, and Release notes.
 
-I collaborate closely with developers, QA teams, SMEs, and product managers in *Agile environments* to ensure documentation is accurate, consistent, and aligned with user needs. I am experienced across the full documentation lifecycle (DDLC & SDLC) and am continuously building hands-on projects in API documentation, Docs-as-Code, and AI-assisted workflows.
+I collaborate closely with developers, QA teams, SMEs, and product managers in *Agile environments* to ensure documentation is accurate, consistent, and aligned with user needs. I am experienced across the full documentation lifecycle (DDLC) and am continuously building hands-on projects in API documentation, Docs-as-Code, and AI-assisted workflows.
 
-Proficient in tools like *MadCap Flare*, *Arbortext Epic Editor*, *GitHub/GitHub Desktop*, *Postman*, *Visual Studio Code*, *Confluence*, and *OpenAPI/Swagger*, I combine aerospace-level discipline with modern developer-centric documentation practices.
+Proficient in tools like *MadCap Flare*, *Arbortext Epic Editor*, *GitHub/GitHub Desktop*, *Postman*, *Visual Studio Code*, *Confluence*, and *OpenAPI/Swagger*, I combine aerospace-level discipline with modern user-centric documentation practices.
 
-I hold a Bachelor’s degree in Aeronautical Engineering from Anna University, Chennai. I previously worked at Capgemini and now work at Boeing as a Technical Writer, where I create and update User Guides, Administrator Guides and Release Notes.
+I hold a Bachelor’s degree in Aeronautical Engineering from Anna University, Chennai.  
 
 I have independently developed a multi-domain documentation portfolio demonstrating end-to-end documentation across API references, developer guides, and software user guides:
 
 - Weather API & Scan API – Documented complete API references covering endpoints, parameters, request/
-response examples, query parameters, response fields and descriptions, and error handling. Created Release
-Notes following industry documentation standards for real-world REST APIs.
-- Booking.com⁠ – Getting Started Guide – Authored a developer-focused Getting Started Guide for
+response examples, query parameters, response fields and descriptions, and error handling. 
+- Booking.com⁠ – Getting Started Guide – Authored a customer-focused *Getting Started Guide* for
 Booking.com⁠ , enabling end-user consumption with clear registration and sign-in methods for both web
 application and mobile applications.
 - Booking.com⁠ – User Guide – Created a structured end-user User Guide for Booking.com⁠ , covering key
