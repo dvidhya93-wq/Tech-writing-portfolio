@@ -76,6 +76,8 @@ curl GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_A
 }
 ```
 ## Response Fields
+
+
 |Fields                   |Description                                                                 |
 |-------------------------|----------------------------------------------------------------------------|
 |```coord.lon```          |Longitude of the location                                                   |
@@ -108,6 +110,8 @@ curl GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_A
 |```cod```                |Internal parameter                                                          |
 
 ## Error Responses
+
+
 |Error code|Description        |
 |----------|-------------------|
 |401       |Invalid API key    |
