@@ -31,6 +31,7 @@ GET https://api.aircraft.com/v1/inventory?partNumber=HYD12345
 |------|-----|
 |Authorization|Bearer access_token|
 |Content-Type|application/json|
+
 ---
 
 ## Example Response
