@@ -21,6 +21,7 @@ Authorization: API-Key your_api_key_here
 ---
 
 ## Start Scan
+
 ### Endpoint
 POST /scan/start
 ### Request Example
@@ -41,6 +42,7 @@ POST /scan/start
 - Scan starts in a queued state
 
 ### Error Handling
+
 |Error Code|Description  |
 |----------|-------------|
 |400       |Invalid input|
@@ -48,8 +50,10 @@ POST /scan/start
 |500       |Server error |
 
 ## Get Scan Status
+
 ### Endpoint
 GET /scan/{id}
+
 ### Response Example
 ```json
 {
@@ -58,14 +62,18 @@ GET /scan/{id}
 "vulnerabilities": []
 }
 ```
+
 ### Error Handling
+
 |Error Code|Description|
 |----------|-----------|
 |404       |Not found  |
 
 ## Stop Scan
+
 ### Endpoint
 POST /scan/{id}/stop
+
 ### Response Example
 ```json
 {
@@ -73,6 +81,7 @@ POST /scan/{id}/stop
 }
 ```
 ### Error Handling
+
 |Error Code|Description  |
 |----------|-------------|
 |400       |Invalid ID   |
