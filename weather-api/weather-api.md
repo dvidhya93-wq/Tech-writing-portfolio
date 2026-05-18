@@ -76,36 +76,36 @@ curl GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_A
 }
 ```
 ## Response Fields
-|Fields    |Description              |
-|----------|-------------------------|
-|```coord.lon```|Longitude of the location|
-|```coord.lat```|Latitude of the location |
-|```weather.id```|Weather condition id     |
-|```weather.main```|Group of weather parameters (Rain, Snow, Clouds etc.)|
-|```weather.description```|Weather condition within the group|
-|```weather.icon```|Weather icon id|
-|```base```|Internal parameter|
-|```main.temp```|Temperature. Unit Default: Kelvin, Metric: Celcius, Imperial: Fahrenheit|
-|```main.feels_like```|Temperature. This temperature parameter accounts for the human perception of weather. Unit Default: Kelvin, Metric: Celsius, Imperial: Fahrenheit|
-|```main.temp_min```|Minimum temperature at the moment|
-|```main.temp_max```|Minimum temperature at the moment|
-|```main.pressure```|Atmospheric pressure on the sea level, hPa|
-|```main.humidity```|Humidity, %|
-|```main.sea_level```|Atmospheric pressure on the sea level, hPa|
-|```main.grnd_level```|Atmospheric pressure on the ground level, hPa|
-|```visibility```|Visibility, meter. The maximum value of the visibility is 10 km|
-|```wind.speed```|Wind speed. Unit Default: meter/sec, Metric: meter/sec, Imperial: miles/hour|
-|```wind.deg```|Wind direction, degrees (meteorological)|
-|```wind.gust```|Wind gust. Unit Default: meter/sec, Metric: meter/sec, Imperial: miles/hour|
-|```clouds.all```|Cloudiness, %|
-|```dt```|Time of data calculation, unix, UTC|
-|```sys.country```|Country code|
-|```sys.sunrise```|Sunrise time, unix, UTC|
-|```sys.sunset```|Sunset time, unix, UTC|
-|```timezone```|Shift in seconds from UTC|
-|```id```|City ID|
-|```name```|City name|
-|```cod```|Internal parameter|
+|Fields                   |Description                                                                 |
+|-------------------------|----------------------------------------------------------------------------|
+|```coord.lon```          |Longitude of the location                                                   |
+|```coord.lat```          |Latitude of the location                                                    |
+|```weather.id```         |Weather condition id                                                        |
+|```weather.main```       |Group of weather parameters (Rain, Snow, Clouds etc.)                       |
+|```weather.description```|Weather condition within the group                                          |
+|```weather.icon```       |Weather icon id                                                             |
+|```base```               |Internal parameter                                                          |
+|```main.temp```          |Temperature. Unit Default: Kelvin, Metric: Celcius, Imperial: Fahrenheit    |
+|```main.feels_like```    |Temperature. Unit Default: Kelvin, Metric: Celsius, Imperial: Fahrenheit    |
+|```main.temp_min```      |Minimum temperature at the moment                                           |
+|```main.temp_max```      |Minimum temperature at the moment                                           |
+|```main.pressure```      |Atmospheric pressure on the sea level, hPa                                  |
+|```main.humidity```      |Humidity, %                                                                 |
+|```main.sea_level```     |Atmospheric pressure on the sea level, hPa                                  |
+|```main.grnd_level```    |Atmospheric pressure on the ground level, hPa                               |
+|```visibility```         |Visibility, meter. The maximum value of the visibility is 10 km             |
+|```wind.speed```         |Wind speed. Unit Default: meter/sec, Metric: meter/sec, Imperial: miles/hour|
+|```wind.deg```           |Wind direction, degrees (meteorological)                                    |
+|```wind.gust```          |Wind gust. Unit Default: meter/sec, Metric: meter/sec, Imperial: miles/hour |
+|```clouds.all```         |Cloudiness, %                                                               |
+|```dt```                 |Time of data calculation, unix, UTC                                         |
+|```sys.country```        |Country code                                                                |
+|```sys.sunrise```        |Sunrise time, unix, UTC                                                     |
+|```sys.sunset```         |Sunset time, unix, UTC                                                      |
+|```timezone```           |Shift in seconds from UTC                                                   |
+|```id```                 |City ID                                                                     |
+|```name```               |City name                                                                   |
+|```cod```                |Internal parameter                                                          |
 
 ## Error Responses
 |Error code|Description        |
