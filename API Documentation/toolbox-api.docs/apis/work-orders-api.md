@@ -65,8 +65,11 @@ POST https://api.aircraft.com/v1/workorders
 |aircraftId |string |Aircraft identifier|
 |status     |string |Current status of the work order|
 |CreatedAt  |string |Timestamp when the work order was created|
+
 ---
+
 ## Error Responses
+
 |Status Code|Description|
 |-----------|-----------|
 |400|Invalid request body|
