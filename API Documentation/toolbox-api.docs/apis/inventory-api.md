@@ -26,11 +26,13 @@ GET https://api.aircraft.com/v1/inventory?partNumber=HYD12345
 ```
 
 ## Request Headers
+
 |Header|Value|
 |------|-----|
 |Authorization|Bearer access_token|
 |Content-Type|application/json|
 ---
+
 ## Example Response
 
 ```json
@@ -42,6 +44,7 @@ GET https://api.aircraft.com/v1/inventory?partNumber=HYD12345
 }
 ```
 ## Response Fields
+
 |Field|Type|Description|
 |-----|----|-----------|
 |partNumber|string|Aircraft part number|
@@ -50,6 +53,7 @@ GET https://api.aircraft.com/v1/inventory?partNumber=HYD12345
 |lastUpdated|string|Timestamp of last inventory update|
 
 ## Error Responses
+
 |Status Code|Description|
 |-----------|-----------|
 |400|Invalid request parameters|
