@@ -1,3 +1,10 @@
+---
+title: Welcome to my Documentation!
+nav_order: 1
+has_children: true
+---
+
+
 # Welcome to my Documentation!
 ---
 ## About me
