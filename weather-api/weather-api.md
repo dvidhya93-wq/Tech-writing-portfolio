@@ -78,7 +78,6 @@ curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOU
 ```
 ## Response Fields
 
-
 |Fields                   |Description                                                                 |
 |-------------------------|----------------------------------------------------------------------------|
 |```coord.lon```          |Longitude of the location                                                   |
