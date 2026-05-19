@@ -1,12 +1,7 @@
 # Get Current Weather
-## Overview
+## Resource Description
 The OpenWeatherMap API provides real-time weather data and forecasts for a city.
 
-## Authentication
-This API uses API key to authenticate the users.
-```
-Authorization: appid={API_KEY}
-```
 ## Base URL
 ```
 https://api.openweathermap.org/data/2.5
@@ -15,7 +10,13 @@ https://api.openweathermap.org/data/2.5
 ```
 GET /weather
 ```
-## Request Parameters
+## Authentication
+This API uses API key to authenticate the users.
+```
+Authorization: appid={API_KEY}
+```
+
+## Query Parameters
 
 |Parameter  |Type  |Required|Description        |
 |-----------|------|--------|-------------------|
@@ -25,7 +26,7 @@ GET /weather
 
 ## Example Request
 ```
-GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&&units=metric"
+curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&&units=metric"
 ```
 ## Example Response
 ```json
