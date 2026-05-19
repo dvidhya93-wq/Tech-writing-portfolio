@@ -10,7 +10,7 @@ To access the API, you need:
 * API client credentials
 * Access token
 * HTTP client such as curl or postman
-* 
+  
 ### Example Request
 
 ```
