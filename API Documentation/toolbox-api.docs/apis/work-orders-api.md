@@ -19,10 +19,10 @@ Creates a new aircraft maintenance work order.
 ---
 ## Request Headers
 
-|Header|Value|
-|-----|------|
+|Header       |Value              |
+|-------------|-------------------|
 |Authorization|Bearer access_token|
-|Content-Type|application/json|
+|Content-Type |application/json   |
 
 ---
 ## Request Body
@@ -59,22 +59,22 @@ POST https://api.aircraft.com/v1/workorders
 ```
 ## Response Fields
 
-|Field      |Type   |Description|
-|---------- |-------|-----------|
-|workOrderId|string |Unique identifier for the work order|
-|aircraftId |string |Aircraft identifier|
-|status     |string |Current status of the work order|
-|CreatedAt  |string |Timestamp when the work order was created|
+|Field            |Type   |Description                              |
+|-----------------|-------|-----------------------------------------|
+|```workOrderId```|string |Unique identifier for the work order     |
+|```aircraftId``` |string |Aircraft identifier                      |
+|````status```    |string |Current status of the work order         |
+|```CreatedAt```  |string |Timestamp when the work order was created|
 
 ---
 
 ## Error Responses
 
-|Status Code|Description|
-|-----------|-----------|
-|400|Invalid request body|
-|401|Unauthorized request|
-|403|User does not have permission|
-|500|Internal server error|
+|Status Code|Description                  |          
+|-----------|-----------------------------|
+|400        |Invalid request body         |
+|401        |Unauthorized request         |
+|403        |User does not have permission|
+|500        |Internal server error        |
 
 ---
