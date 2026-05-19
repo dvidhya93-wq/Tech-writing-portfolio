@@ -1,5 +1,5 @@
 # Get Current Weather
-## Resource Description
+## Overview
 The OpenWeatherMap API provides real-time weather data and forecasts for a city.
 
 ## Base URL
