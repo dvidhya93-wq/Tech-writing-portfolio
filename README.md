@@ -52,4 +52,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/) or reach me at **dvi
 Published with [GitHub Pages](https://pages.github.com)
 
 
->  **Disclaimer:** *These documents are a self-initiated writing samples created for portfolio purposes and are not affiliated with or endorsed by Booking.com or any other applications.*
+>  **Disclaimer:** *These documents are self-initiated writing samples created for portfolio purposes and are not affiliated with or endorsed by Booking.com or any other applications.*
