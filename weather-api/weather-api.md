@@ -111,9 +111,19 @@ curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOU
 
 ## Error Responses
 
-
 |Error code|Description        |
 |----------|-------------------|
 |401       |Invalid API key    |
 |404       |City not found     |
 |429       |Rate limit exceeded|
+
+## Example Error 
+
+```json
+`401 Unauthorized`
+
+{
+    "cod": 401,
+    "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."
+}
+```
