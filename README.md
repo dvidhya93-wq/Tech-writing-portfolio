@@ -47,4 +47,11 @@ workflows, feature walkthroughs, and step-by-step instructions tailored for non-
 ---
 Connect with me on [LinkedIn](https://www.linkedin.com/in/) or reach me at **dvidhya93@gmail.com**
 
+
+
 Published with [GitHub Pages](https://pages.github.com)
+
+
+> [!Note]
+> 
+>  *These documents are a self-initiated writing samples created for portfolio purposes and are not affiliated with or endorsed by Booking.com or any other applications.*
