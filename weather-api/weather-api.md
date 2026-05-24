@@ -120,7 +120,7 @@ curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=Y
 ## Example Error 
 
 ```json
-`401 Unauthorized`
+401 Unauthorized
 
 {
     "cod": 401,
