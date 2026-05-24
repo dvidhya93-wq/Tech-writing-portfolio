@@ -26,7 +26,7 @@ Authorization: appid={API_KEY}
 
 ## Example Request
 ```
-curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&&units=metric"
+curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=YOUR_API_KEY&units=metric"
 ```
 ## Example Response
 ```json
