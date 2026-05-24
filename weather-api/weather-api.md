@@ -76,7 +76,7 @@ curl -X GET "https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=Y
     "cod": 200
 }
 ```
-## Response Fields
+## Schema
 
 |Fields                   |Description                                                                 |
 |-------------------------|----------------------------------------------------------------------------|
