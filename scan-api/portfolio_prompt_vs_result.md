@@ -2,6 +2,7 @@
 
 ## Project: API Documentation Generation
 
+
 **Category:** Prompt Engineering · Technical Writing  
 **Tool:** Claude (Sonnet 4.6)  
 **Output Format:** Markdown (`.md`)
@@ -10,17 +11,19 @@
 
 ## Overview
 
-This project demonstrates how constraint tuning in prompts directly shapes AI output quality and scope. The same raw API input was run through two different prompts — one permissive, one restrictive — to show how prompt engineering decisions control inference, completeness, and accuracy.
+This project demonstrates how constraint tuning in prompts directly shapes AI output quality and scope. The same raw API input was run through two different prompts to show how prompt engineering decisions control inference, completeness, and accuracy.
+
+- Prompt 1 (Permissive)
+- Prompt 2 (Restrictive) 
 
 ---
 
 ## Same Input. Two Prompts. Two Different Outputs.
 
-> **Raw Input (identical for both prompts):**  
-> *"API to start scan POST /scan/start with target url and scan type returns scan id and status queued api key required"*
+Input - A single unstructured sentence with no formatting, field types, examples, error codes, or edge cases.
 
-A single unstructured sentence with no formatting, field types, examples, error codes, or edge cases.
-
+> **Raw Input (identical for both prompts)** 
+> "API to start scan POST /scan/start with target url and scan type returns scan id and status queued api key required."
 
 ---
 
@@ -57,11 +60,11 @@ Conciseness, tone, and format constraints operate independently from content rul
 
 Three additional constraints were added:
 
-| Constraint                                      | Effect                                                             |
-|-------------------------------------------------|--------------------------------------------------------------------|
-| `Use only the information provided in the input`| Blocked all REST convention inference                              |
-| `Do not include any additional information`     | Prevented enriched examples (curl, auth headers, extra fields)     |
-| `Remove sections if information is not available` | Dropped Error Codes and Notes entirely                           |
+| Constraint                                        | Effect                                                             |
+|---------------------------------------------------|--------------------------------------------------------------------|
+| `Use only the information provided in the input`  | Blocked all REST convention inference                              |
+| `Do not include any additional information`       | Prevented enriched examples (curl, auth headers, extra fields)     |
+| `Remove sections if information is not available` | Dropped Error Codes and Notes entirely                             |
 
 These constraints shifted the model from a *creative generator* to a *faithful transcriber* — a critical distinction for documentation accuracy.
 
