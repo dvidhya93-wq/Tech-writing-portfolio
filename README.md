@@ -39,6 +39,7 @@ workflows, feature walkthroughs, and step-by-step instructions tailored for non-
 
 - [Weather API documentation](weather-api/weather-api.md)
 - [Tool-box-API](API Documentation/toolbox-api.docs/README.md)
+- [API documentation sample with Prompts]()
 - [Booking.com-Getting Started Guide](Getting Started Guide - Booking.com.pdf)
 - [User Guide for Travelers](User Guide for Travelers.pdf)
 - [DDLC](DDLC.jpg)
