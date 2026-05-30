@@ -46,9 +46,9 @@ workflows, feature walkthroughs, and step-by-step instructions tailored for non-
 
  ## API Documentation with AI-Assisted Authoring
 
-- [Start Scan API – Prompt Engineering Approach](scan-api/start-scan-with-prompt-1.md)
-- [Start Scan API – Refined Prompt Workflow](scan-api/start-scan-with-prompt-2.md)
-- [Prompt vs Result Comparison]
+- [Start Scan API – Prompt 1](scan-api/start-scan-with-prompt-1.md)
+- [Start Scan API – Prompt 2](scan-api/start-scan-with-prompt-2.md)
+- [Prompt vs Result](scan-api/prompt_vs_result.md)
 
   
 ---
