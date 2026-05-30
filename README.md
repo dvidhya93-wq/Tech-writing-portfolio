@@ -44,7 +44,7 @@ workflows, feature walkthroughs, and step-by-step instructions tailored for non-
 - [DDLC](DDLC.jpg)
 
 
- ## API Documentation with AI-Assisted Authoring
+ ### API Documentation with AI-Assisted Authoring
 
 - [Start Scan API – Prompt 1](scan-api/start-scan-with-prompt-1.md)
 - [Start Scan API – Prompt 2](scan-api/start-scan-with-prompt-2.md)
