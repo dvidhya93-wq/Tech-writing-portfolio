@@ -17,7 +17,8 @@ APIs to start, monitor and stop a scan.
 ## Authentication
 An API key is required.
 
-Authorization: API-Key your_api_key_here
+```Authorization: API-Key your_api_key_here```
+
 ---
 
 ## Start Scan
