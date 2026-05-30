@@ -1,4 +1,4 @@
-# Portfolio: Prompt Engineering & Technical Writing
+# Prompt Engineering & Technical Writing
 
 ## Project: API Documentation Generation
 
