@@ -1,8 +1,11 @@
 # Booking.com - Release notes
 ## Version 3.2
-**Release Date:** 26 May 2026
-**Document Version:** 1.1
-**Prepared by:** Vidhya
+>
+>**Release Date:** 26 May 2026
+>
+>**Document Version:** 1.1
+>
+>**Prepared by:** Vidhya
 
 ---
 
@@ -11,6 +14,7 @@
 Booking.com API v3.2 introduces new APIs, enhancements to existing payment services, and bug fixes designed to improve partner onboarding, payment processing, and reservation management.
 
 These release notes are intended for:
+
 - API partners
 - Connectivity providers
 - Property management system (PMS) providers
@@ -24,15 +28,17 @@ Payments by Booking Onboarding API enables you to check whether a property is el
 
 To learn more and start using it, see the Payments by Booking Onboarding API documentation.
 
-Credit Card Status API New API with multiple endpoints
+###  New API: Payments by Credit Card Status API
 
 Credit Card Status API enables you to check the validity of credit cards for "Pay at property" reservations and take action when a card is invalid.
 
 To learn more and start using it, see the Credit Card Status API documentation.
 
-Promotions API New Property Deal
+###  New API: New Property Deal Promotions API 
 
 New Property Deal enables you to create a new promotion type in the existing Promotions API for eligible new properties that have been open and bookable on Booking.com for less than 12 months and have no reservations yet.
+
+To learn more and start using it, see the Creating a new property deal.
 
 ## Improvements
 
