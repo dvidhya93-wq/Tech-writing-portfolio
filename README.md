@@ -41,7 +41,7 @@ workflows, feature walkthroughs, and step-by-step instructions tailored for non-
 - [Tool-box-API](API Documentation/toolbox-api.docs/README.md)
 - [Booking.com-Getting Started Guide](Getting Started Guide - Booking.com.pdf)
 - [User Guide for Travelers](User Guide for Travelers.pdf)
-- [Release notes](Booking.com Release Notes Sample.md)
+- [Release notes](Release Notes.md)
 - [DDLC](DDLC.jpg)
 
 
